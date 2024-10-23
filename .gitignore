@@ -1,1 +1,7 @@
-.venv\
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore environment variable files
+.env
+
+*.pyc
